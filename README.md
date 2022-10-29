@@ -2,7 +2,7 @@
 
 Firmware images for Xiaomi 11 Lite NE (lisa), to include in custom ROM builds.
 
-**Current version**: fw_lisa_miui_LISAPRE_22.10.18_1672c0fe6e_12.0
+**Current version**: fw_lisa_miui_LISAPRE_22.10.26_ce2e4c1e9e_12.0
 
 ### How to use?
 
